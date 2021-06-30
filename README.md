@@ -80,8 +80,6 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](summary/finetuning_wi_do.md), Dodge et al. 2020  [[arXiv](https://arxiv.org/pdf/2002.06305.pdf)]
 
-* [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
-
 * [If Beam Search is the Answer, What was the Question?](summary/beam_search_objective.md), Clara Meister, Tim Vieira, Ryan Cotterell, Oct 2020, EMNLP [[arXiv](https://arxiv.org/pdf/2010.02650.pdf)]
 
 * Xu, Benfeng, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie, and Yongdong Zhang. ["Curriculum learning for natural language understanding."](summary/NLU_CL.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 6095-6104. 2020. [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.542.pdf)]
@@ -199,6 +197,13 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
+## Extreme Classification
+
+* [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
+
+
+* Dahiya, Kunal, Deepak Saini, Anshul Mittal, Ankush Shaw, Kushal Dave, Akshay Soni, Himanshu Jain, Sumeet Agarwal, and Manik Varma. ["DeepXML: A Deep Extreme Multi-Label Learning Framework Applied to Short Text Documents."](summary/DeepXML.md) In Proceedings of the 14th ACM International Conference on Web Search and Data Mining, pp. 31-39. 2021.[[arXiv](http://manikvarma.org/pubs/dahiya21-main.pdf)]
+
 ## Conversational AI
 
 * [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
@@ -238,9 +243,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Sultan, Md Arafat, Shubham Chandel, Ramón Fernandez Astudillo, and Vittorio Castelli. ["On the importance of diversity in question generation for QA."](summary/QG_diversity.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5651-5656. 2020.[[arXiv](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)]
 
+* Lopez, Luis Enrico, Diane Kathryn Cruz, Jan Christian Blaise Cruz, and Charibeth Cheng. ["Simplifying Paragraph-level Question Generation via Transformer Language Models."](summary/QG_TLM.md) arXiv preprint arXiv:2005.01107 (2020)[[arXiv](https://arxiv.org/pdf/2005.01107.pdf)].
+
 ## Question Answering
-* [Retrieve, Rerank, Read, then Iterate:
-Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
+* [Retrieve, Rerank, Read, then Iterate: Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
 
 * [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](https://arxiv.org/pdf/1906.02361.pdf)]
 
@@ -255,6 +261,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * Khashabi, Daniel, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Clark, and Hannaneh Hajishirzi. ["Unifiedqa: Crossing format boundaries with a single qa system."](summary/unifiedQA.md) arXiv preprint [[arXiv:2005.00700](https://arxiv.org/pdf/2005.00700.pdf)] (2020).
 
 * Gomez-Perez, Jose Manuel, and Raul Ortega. ["ISAAQ--Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention."](summary/ISAAQ.md) arXiv preprint [[arXiv:2010.00562](https://arxiv.org/pdf/2010.00562.pdf)] (2020).
+
+* Wang, Peifeng, Nanyun Peng, Filip Ilievski, Pedro Szekely, and Xiang Ren. ["Connecting the dots: A knowledgeable path generator for commonsense question answering."](summary/ConnectingDots.md) arXiv preprint arXiv:2005.00691 (2020).
 
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
@@ -345,7 +353,7 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](summary/allen_nlp.md), Wallace et al, 2019 EMNLP [[arXiv](https://www.aclweb.org/anthology/D19-3002.pdf)]
 
-## AI Ethics & Futuer
+## AI Ethics & Future
 
 * [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](summary/meaning.md) Bender, Koller, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)]
 
@@ -381,6 +389,11 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Individualized Bayesian Knowledge Tracing
 Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger, and Geoffrey J. Gordon, CMU, [[Springer 2013](https://www.cs.cmu.edu/~ggordon/yudelson-koedinger-gordon-individualized-bayesian-knowledge-tracing.pdf)]
+
+## Speech Synthesis
+* Li, Naihan, Shujie Liu, Yanqing Liu, Sheng Zhao, and Ming Liu. ["Neural speech synthesis with transformer network."](summary/TransformerTTS.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 6706-6713. 2019.[ (AAAI)](https://ojs.aaai.org/index.php/AAAI/article/download/4642/4520)
+
+* Ren, Yi, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. ["Fastspeech: Fast, robust and controllable text to speech."](summary/fastspeech.md) arXiv preprint arXiv:1905.09263 (2019).
 
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
